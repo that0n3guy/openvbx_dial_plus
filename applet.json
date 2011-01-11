@@ -1,0 +1,6 @@
+{
+	"name" : "Dial Plus",
+	"description" : "Dial a user or group or send them to voicemail if they can't be reached. PLUS extra features",
+    "type" : "voice",
+	"order" : 1
+}
